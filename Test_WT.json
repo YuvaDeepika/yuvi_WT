@@ -1,0 +1,17 @@
+[
+
+	{
+		"firstName": "Yuva",
+		"lastName": "Deepika",
+		"age": 20,
+		"marks": [{
+				"english": 23
+			},
+			{
+				"math": 28
+			}
+		],
+		"address": "Hyd"
+	}
+
+]
